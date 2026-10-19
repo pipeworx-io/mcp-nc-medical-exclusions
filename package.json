@@ -1,0 +1,32 @@
+{
+  "name": "@pipeworx/mcp-nc-medical-exclusions",
+  "version": "0.1.0",
+  "description": "NC Medicaid (Division of Health Benefits, Office of Compliance and Program Integrity) State Excluded Providers List screening — fleet #3282, the ninth state exclusion pack after mcps/ny-omig-exclusions (#2788), mcps/ca-medical-exclusions (#2805), mcps/tx-medical-exclusions (#2809)…",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "bin": {
+    "mcp-nc-medical-exclusions": "bin/cli.js"
+  },
+  "keywords": ["mcp", "mcp-server", "model-context-protocol", "pipeworx", "nc-medical-exclusions"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pipeworx-io/mcp-nc-medical-exclusions.git"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.30.0",
+    "tsx": "^4.19.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3",
+    "@cloudflare/workers-types": "^4.20260405.1"
+  },
+  "pipeworx": {
+    "sourceHash": "v1-dcd46e8e7861f0e9df93a5557bed0d7053135884d6c25eb8033719238170f58b",
+    "sourceCommit": "351c40908821cfecc9bb2f5849d87bbfdbb26d75"
+  }
+}
