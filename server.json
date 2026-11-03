@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/nc-medical-exclusions",
   "title": "Nc Medical Exclusions",
   "description": "NC Medicaid (Division of Health Benefits, Office of Compliance and Program Integrity) State…",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "websiteUrl": "https://pipeworx.io/packs/nc-medical-exclusions",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-nc-medical-exclusions",

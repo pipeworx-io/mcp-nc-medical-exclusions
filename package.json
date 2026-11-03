@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-nc-medical-exclusions",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "NC Medicaid (Division of Health Benefits, Office of Compliance and Program Integrity) State Excluded Providers List screening — fleet #3282, the ninth state exclusion pack after mcps/ny-omig-exclusions (#2788), mcps/ca-medical-exclusions (#2805), mcps/tx-medical-exclusions (#2809)…",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "nc-medical-exclusions",
     "gatewaySlug": "nc-medical-exclusions",
-    "sourceHash": "v1-b0ff913a36c80c721bbce59b4d5a2987589fc1f3e073772e988ad8ad87bd3bf5",
-    "sourceCommit": "5c89d6abb778d45da5d92002eb251978622bedf9"
+    "sourceHash": "v1-e03064e591ab33ddb23154a5234b7cfd4634e37e93d3b2b4da253c8005796617",
+    "sourceCommit": "56cf550e46fed96c0101a3877ccaf8357eecf016"
   }
 }
